@@ -26,17 +26,17 @@ Methods which are supported in this wrapper are as follows, more will be added i
   o.get_example("word")
 ```
 ## .get_pronunciation
-`.get_pronunciation()` retrieves pronunciations for a given word in the phonetic spelling
+`.get_pronunciation` retrieves pronunciations for a given word in the phonetic spelling
 ```python
   o.get_pronunciation("word")
 ```
 ## .get_random_word
-`.get_random_word()` provides any random word from the wordslist in the api, no parameter needs to be passed 
+`.get_random_word` provides any random word from the wordslist in the api, no parameter needs to be passed 
 ```python
   o.get_random_word()
 ```
 ## .get_synonym
-`.get_synonym()` retrieves synonyms for a given word
+`.get_synonym` retrieves synonyms for a given word
 ```python
   o.get_synonym("word")
 ```

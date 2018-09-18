@@ -3,6 +3,7 @@
 from wrapper import OxfordD
 ox = OxfordD('<url>','<app_id>','<app_key>','en','placeholder','definitions')
 
+
 class Executor:
     def __init__(self,word,varname):
        self.word = word

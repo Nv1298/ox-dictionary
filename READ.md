@@ -1,5 +1,5 @@
 # ox-dictionary
-A Python wrapper for the oxforddictionary.com REST API.
+A Python wrapper for the oxforddictionary.com  API.
 
 # Installation:
 ```shell
